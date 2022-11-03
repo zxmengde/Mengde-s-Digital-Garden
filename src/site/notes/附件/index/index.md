@@ -17,6 +17,6 @@
 	border=0
 	frameborder=0
 	height=1066
-	width="100%"
+	width=600
 	src="https://www.dida365.com/webapp/">
 </iframe>
